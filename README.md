@@ -1,6 +1,6 @@
 # Git-Workshops
 
-![header](sources/cover.png)
+![header](resources/cover.png)
 
 
 # Zero-to-Hero-with-GitHub (Session 01)
@@ -28,17 +28,17 @@ GitHub is a web-based hosting service for version control using git. It is mostl
 <br>
 
 ## My first **GitHub Repository**.
-![RepositoryScreenShot](sources/Repo_MakingSS.png)
+![RepositoryScreenShot](resources/Repo_MakingSS.png)
 
 
 
 ## My first **GitHub Star and Fork**
-![RepositoryScreenShot](sources/fork_star.png)
+![RepositoryScreenShot](resources/fork_star.png)
 
 
 
 ## My first **GitHub Clone and Download**
-![RepositoryScreenShot](sources/clone_download.png)
+![RepositoryScreenShot](resources/clone_download.png)
 
 
 
