@@ -1,4 +1,4 @@
-# IIT-Git-Workshop
+# SLIIT-Git-Workshop
 
 Steps to add your name here...
 
